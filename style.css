@@ -1,0 +1,154 @@
+@import url("https://rembane.github.io/a-style-of-prolog/fonts/league-gothic/stylesheet.css");
+
+body {
+	color:#333;
+}
+
+#main {
+    	font-family:georgia;
+}
+
+a.event-link {
+    	font-weight: bold;
+}
+
+
+.program p.arr {
+    -webkit-margin-before: 0em;
+}
+
+
+.program p.besk  {
+    -webkit-margin-before: 0em;
+    -webkit-margin-after: 0em;
+}
+
+.program p.vad  {
+    -webkit-margin-after: 0em;
+}
+
+.program p.taggar  {
+    -webkit-margin-before: 0em;
+    -webkit-margin-after: 0em;
+}
+
+
+
+.program>ul>li {
+    	padding-top:10px;
+}
+
+.content  {
+    	margin-top: 10px;
+}
+
+a {
+	color:#336600;
+	text-decoration:none;
+}
+
+a:hover {
+	color:#335C0A;
+}
+
+.taggar  {
+	font-weight:bold;
+	color:#999999;
+}
+
+.vad     {
+ 	-webkit-margin-after: 0.5em;
+}
+
+
+
+
+.pure-button-primary {
+    background-color: #336600;
+    color: #fff;
+}
+
+.pure-button-primary:hover {
+    background-color: #335C0A;
+    color: #fff;
+}
+
+
+
+.header h1  {
+    	font-family:'League Gothic', Impact;
+	text-transform:uppercase;
+	color:#000;
+	font-size:3em;
+}
+
+
+h1  {
+    	font-family:'League Gothic', Impact;
+	text-transform:uppercase;
+	color:#000;
+	font-size:3em;
+    	font-weight: 300;
+	line-height: normal;
+}
+
+
+
+#menu .pure-menu-heading  {
+    	font-family:'League Gothic', Impact;
+	text-transform:uppercase;
+	font-size: 160%;
+    	padding: 0.5em 0 0.5em 0.5em;
+}
+
+
+.pure-form legend   {
+    	font-family:'League Gothic', Impact;
+	text-transform:uppercase;
+	font-size: 2em;
+}
+
+
+h2   {
+    	font-family:'League Gothic', Impact;
+	text-transform:uppercase;
+	font-size: 2em;	
+}
+
+
+.content h2 {
+	color:#000;
+}
+
+
+.arr {
+    font-style: italic;
+}
+
+
+.vad {
+    font-style: italic;
+}
+
+
+.taggar {
+    font-style: italic;
+}
+
+
+
+
+
+#menu .pure-menu-heading {
+    background: #336600;
+}
+
+#menu .pure-menu-heading:hover {
+    background: #335C0A;
+}
+
+
+#footer  {
+	font-size:0.8em;
+	color:#666;
+}
