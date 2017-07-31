@@ -155,6 +155,7 @@ h2   {
 #menu .pure-menu-heading {
     background: #fff;
     color: #d32027;
+    text-align:center;  
 }
 
 #menu .pure-menu-heading:hover {
