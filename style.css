@@ -14,6 +14,11 @@ a.event-link {
 }
 
 
+#menu .pure-menu ul, #menu .pure-menu .menu-item-divided {
+    border-top: 0px;
+}
+
+
 .program p.arr {
     -webkit-margin-before: 0em;
 }
@@ -44,12 +49,12 @@ a.event-link {
 }
 
 a {
-	color:#336600;
+	color:#d32027;
 	text-decoration:none;
 }
 
 a:hover {
-	color:#335C0A;
+	color:#EBEBEB;
 }
 
 .taggar  {
@@ -65,12 +70,12 @@ a:hover {
 
 
 .pure-button-primary {
-    background-color: #336600;
+    background-color: #d32027;
     color: #fff;
 }
 
 .pure-button-primary:hover {
-    background-color: #335C0A;
+    background-color: #EBEBEB;
     color: #fff;
 }
 
@@ -80,7 +85,7 @@ a:hover {
     	font-family: Oswald, sans-serif;
 	text-transform:uppercase;
 	color:#000;
-	font-size:3em;
+	font-size:2.5em;
 }
 
 
@@ -88,18 +93,20 @@ h1  {
     	font-family: Oswald, sans-serif;
 	text-transform:uppercase;
 	color:#000;
-	font-size:3em;
+	font-size:2.5em;
     	font-weight: 300;
 	line-height: normal;
 }
 
-
+.pure-menu-link {
+	font-size:0.5em;
+}
 
 #menu .pure-menu-heading  {
     	font-family:Oswald, sans-serif;
 	text-transform:uppercase;
 	font-size: 160%;
-    	padding: 0.5em 0 0.5em 0.5em;
+    	padding: 0.5em 0.5em 0.5em 0.5em;
 }
 
 
