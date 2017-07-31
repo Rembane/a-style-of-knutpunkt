@@ -150,6 +150,16 @@ h2   {
     background: #335C0A;
 }
 
+#menu a {
+    color: #fff;
+    font-family: Oswald, sans-serif;
+	text-transform:uppercase;
+
+#menu a:hover {
+    background-color: #AA1A20;
+    font-family: Oswald, sans-serif;
+	text-transform:uppercase;
+
 
 #footer  {
 	font-size:0.8em;
