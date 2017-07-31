@@ -144,6 +144,7 @@ h2   {
 
 #menu .pure-menu-heading {
     background: #fff;
+    color: #d32027;
 }
 
 #menu .pure-menu-heading:hover {
@@ -151,7 +152,7 @@ h2   {
 }
 
 #menu a {
-    color: #d32027;
+    color: #fff;
     font-family: Oswald, sans-serif;
 	text-transform:uppercase;
 
