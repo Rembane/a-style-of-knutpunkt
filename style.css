@@ -1,11 +1,12 @@
-@import url("https://rembane.github.io/a-style-of-prolog/fonts/league-gothic/stylesheet.css");
+@import url('https://fonts.googleapis.com/css?family=Oswald|Pontano+Sans');
+
 
 body {
 	color:#333;
 }
 
 #main {
-    	font-family:georgia;
+    	font-family: 'Pontano Sans', sans-serif;
 }
 
 a.event-link {
@@ -76,7 +77,7 @@ a:hover {
 
 
 .header h1  {
-    	font-family:'League Gothic', Impact;
+    	font-family:'Pontano Sans', sans-serif;
 	text-transform:uppercase;
 	color:#000;
 	font-size:3em;
@@ -84,7 +85,7 @@ a:hover {
 
 
 h1  {
-    	font-family:'League Gothic', Impact;
+    	font-family:'Pontano Sans', sans-serif;
 	text-transform:uppercase;
 	color:#000;
 	font-size:3em;
@@ -95,7 +96,7 @@ h1  {
 
 
 #menu .pure-menu-heading  {
-    	font-family:'League Gothic', Impact;
+    	font-family:'Pontano Sans', sans-serif;
 	text-transform:uppercase;
 	font-size: 160%;
     	padding: 0.5em 0 0.5em 0.5em;
@@ -103,14 +104,14 @@ h1  {
 
 
 .pure-form legend   {
-    	font-family:'League Gothic', Impact;
+    	font-family:'Pontano Sans', sans-serif;
 	text-transform:uppercase;
 	font-size: 2em;
 }
 
 
 h2   {
-    	font-family:'League Gothic', Impact;
+    	font-family:'Pontano Sans', sans-serif;
 	text-transform:uppercase;
 	font-size: 2em;	
 }
@@ -136,7 +137,9 @@ h2   {
 }
 
 
-
+#menu {
+    background: #d32027;
+}
 
 
 #menu .pure-menu-heading {
