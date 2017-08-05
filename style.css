@@ -106,11 +106,21 @@ h1  {
 }
 
 
-  .menu-link:hover,
-    .menu-link:focus {
-        background: #AA1A20;
+
+a .pure-menu-link {
+    background-color: #d32027;
 }
 
+
+a .pure-menu-link:hover {
+    background-color: #AA1A20;
+}
+
+a .pure-menu-link:focus {
+    background-color: #AA1A20;
+}
+
+ 
 
 #menu .pure-menu-heading  {
     	font-family:Oswald, sans-serif;
@@ -158,8 +168,10 @@ h2   {
     background: #d32027;
 }
 
-.menu-link:hover {
-    background: #EBEBEB;
+
+ .menu-link:hover,
+    .menu-link:focus {
+        background: #AA1A20;
 }
 
 
