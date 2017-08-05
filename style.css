@@ -79,6 +79,15 @@ a:hover {
     color: #fff;
 }
 
+#menu .pure-menu li a:hover,
+	 {
+    background-color: #EBEBEB;
+        }
+
+        #menu .pure-menu li a:focus {
+    background-color: #EBEBEB;
+        }
+
 
 
 .header h1  {
