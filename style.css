@@ -75,12 +75,12 @@ a:hover {
 }
 
 .pure-button-primary:hover {
-    
+   
     color: #fff;
 }
 
 #menu .pure-menu li a:hover, #menu .pure-menu li a:focus {
-    background-color: #EBEBEB;
+    background-color: #AA1A20;
 }
 
 
