@@ -75,7 +75,6 @@ a:hover {
 }
 
 .pure-button-primary:hover {
-   
     color: #fff;
 }
 
@@ -106,8 +105,15 @@ h1  {
 	font-size:1.2em;
 }
 
+
+a .pure-menu-link {
+    background-color: #d32027;
+
 a .pure-menu-link:hover {
-    background-color: #EBEBEB;
+    background-color: #AA1A20;
+
+a .pure-menu-link:focus {
+    background-color: #AA1A20;
 }
 
 #menu .pure-menu-heading  {
