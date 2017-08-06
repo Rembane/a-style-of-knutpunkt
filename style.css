@@ -66,15 +66,12 @@ a:hover {
  	-webkit-margin-after: 0.5em;
 }
 
-
-
-
-.pure-button-primary {
+.pure-button-primary, a.pure-button-primary {
     background-color: #d32027;
     color: #fff;
 }
 
-.pure-button-primary:hover {
+.pure-button-primary:hover, a.pure-button-primary:hover {
     color: #fff;
 }
 
