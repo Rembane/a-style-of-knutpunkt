@@ -203,6 +203,6 @@ h2   {
 
 /* The schedule */
 
-table.schedule h4 {
+table.schedule h4 a {
 	font-family: Oswald, sans-serif;
 }   
