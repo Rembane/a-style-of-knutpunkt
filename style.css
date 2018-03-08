@@ -38,8 +38,6 @@ a.event-link {
     -webkit-margin-after: 0em;
 }
 
-
-
 .program>ul>li {
     	padding-top:10px;
 }
@@ -120,7 +118,7 @@ a .pure-menu-link:focus {
  
 
 #menu .pure-menu-heading  {
-    	font-family:Oswald, sans-serif;
+   	font-family:Oswald, sans-serif;
 	text-transform:uppercase;
 	font-size: 160%;
     	padding: 0.5em 0.5em 0.5em 0.5em;
@@ -128,14 +126,14 @@ a .pure-menu-link:focus {
 
 
 .pure-form legend   {
-    	font-family: Oswald, sans-serif;
+   	font-family: Oswald, sans-serif;
 	text-transform:uppercase;
 	font-size: 2em;
 }
 
 
 h2   {
-    	font-family: Oswald, sans-serif;
+   	font-family: Oswald, sans-serif;
 	text-transform:uppercase;
 	font-size: 2em;	
 }
@@ -166,7 +164,7 @@ h2   {
 }
 
 
- .menu-link:hover,
+.menu-link:hover,
     .menu-link:focus {
         background: #AA1A20;
 }
@@ -198,8 +196,13 @@ h2   {
     font-family: Oswald, sans-serif;
 	text-transform:uppercase;
 
-
 #footer  {
 	font-size:0.8em;
 	color:#666;
 }
+
+/* The schedule */
+
+table.schedule h4 {
+	font-family: Oswald, sans-serif;
+}   
